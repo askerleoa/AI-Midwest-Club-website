@@ -46,7 +46,7 @@ export default function Home() {
                 href="#join"
                 className="rounded-full bg-emerald-400 px-5 py-2 text-sm font-semibold text-slate-900 hover:bg-emerald-300"
               >
-                Request to Join
+                Request to Join here
               </a>
               <a
                 href="#events"
